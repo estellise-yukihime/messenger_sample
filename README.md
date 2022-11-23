@@ -1,6 +1,6 @@
 # messenger_sample
 
-A new Flutter project.
+Messenger Sample
 
 ## Resources
 
